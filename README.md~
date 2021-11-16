@@ -25,7 +25,8 @@ Se a opção criar senha foi selecionada por engano é possível sair apertando 
 
 Ao escolher a opção copiar senha ela poderá ser colada via terminal ou no gerenciador de janelas qualquer seja no navegador ou app em uso.
 
-O arquivo de senha gerada ficará na pasta raiz do script passwords.sh
+O arquivo de senha gerada ficará na pasta raiz do script passwords.sh a menos que vc queira mudar isso reescrevendo o script.
 
 Bom se você não deseja abrir o arquivo de senhas para visualizar, nem você saberá sua senha. Quanto mais...
+Link: https://github.com/aondenet-sinval/gerar-passwords-shell
 Ficamos por aqui.

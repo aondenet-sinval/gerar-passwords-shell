@@ -13,6 +13,7 @@ cat
 tr
 fold
 head
+xclip
 
 Como você poderá criar suas senhas?
 Execute o arquivo/script passwords.sh com o comando:
@@ -28,4 +29,5 @@ Ao escolher a opção copiar senha ela poderá ser colada via terminal ou no ger
 O arquivo de senha gerada ficará na pasta raiz do script passwords.sh a menos que vc queira mudar isso reescrevendo o script.
 
 Bom se você não deseja abrir o arquivo de senhas para visualizar, nem você saberá sua senha. Quanto mais...
+Link: https://github.com/aondenet-sinval/gerar-passwords-shell
 Ficamos por aqui.
