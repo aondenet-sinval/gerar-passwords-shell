@@ -1,0 +1,12 @@
+{
+  "name": "14shellsenhas",
+  "version": "1.0.0",
+  "description": "Num mundo cada vez mais conectado resultará em mais ataques e ameaças de segurança. Precisamos então melhorar o uso e abordagens de questões de segurança. Para quem precisa usar muitas senhas, isso pode ser delicado. O linux possui várias formas de melhorar a segurança e implementar processos automatizados de acesso e login, assim como outros sistemas operacionais. Em uma outra abordagem criei um arquivo para geração de hash mais seguros. Nessa abordagem trato da criação de senhas propriamente. Não vou passar muitos detalhes técnicos apenas vou explicar como o processo de criação/uso de senhas funciona no script criado. Programas/comandos usados: cat  /dev/urandom tr fold head",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
